@@ -207,6 +207,10 @@ ACCESSIBILITY
 Modify the block below if there are any barriers to accessibility or
 special instructions.
 {% endcomment %}
+
+{% comment %}
+Commented out accessibility paragraph on request from HIDA course management, because we cannot provide the support described there, and our course is online.
+
 <p id="accessibility">
   <strong>Accessibility:</strong>
   We are committed to making this workshop
@@ -228,6 +232,8 @@ special instructions.
   <a href="https://carpentries.typeform.com/to/B2OSYaD0">accommodation request form</a>.
   If you have questions or need assistance with the accommodation form please <a href="mailto:team@carpentries.org">email us</a>.
 </p>
+{% endcomment %}
+
 <p>
   <a href="https://glosario.carpentries.org/">Glosario</a> is a multilingual glossary
   for computing and data science terms. The glossary helps
